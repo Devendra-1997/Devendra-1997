@@ -2,15 +2,14 @@
 **Dedicated developer focused on creating intuitive websites and applications.**
 
 ### 👨‍💻 I'm currently working on MERN Stack
-### 🤝 I'm looking to collaborate on [Twitter](https://twitter.com/chirag_verma11)
+### 🤝 I'm looking to collaborate on [LinkedIn](https://linkedin.com/in/devendra-dhakal)
 ### 🌱 I'm currently learning Next.js
 ### 💬 Ask me about React, Node.js, Express, MongoDB etc.
 ### 📫 How to reach me devendradhakal92@gmail.com
 
 
 ## Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/chirag_verma11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiragverma1113)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devendra-dhakal)
 
 
 ## Languages and Tools:
