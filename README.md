@@ -1,5 +1,5 @@
 # Hi 👋, I'm Devendra
-**Dedicated developer focused on creating intuitive websites and applications.**
+**Dedicated  Fullstack developer focused on creating intuitive websites and applications.**
 
 ### 👨‍💻 I'm currently working on MERN Stack
 ### 🤝 I'm looking to collaborate on [LinkedIn](https://linkedin.com/in/devendra-dhakal)
