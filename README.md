@@ -35,9 +35,8 @@
 
 ### 🚀 My Top Projects
 - [LMS](https://library-client-kappa.vercel.app/)
-- [MOVIE WORLD](https://movie-world-beta.vercel.app/)
 - [TRANSACTION-HISTORY ](https://transaction-history-client.vercel.app/)
-
+- [MOVIE WORLD](https://movie-world-beta.vercel.app/)
 
 ---
 ### 📫 Let's Connect
@@ -53,18 +52,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Devendra-1997&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devendra-1997&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📂 Top Repositories
-<div align="left">
-  <p>
-    <strong>Nike-Clone</strong> <br/>
-    <em>It's my major project where I've used MERN stack to make the clone of Nike website along with backend integration and payment gateway integration.</em><br/>
-    <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript" /> <img src="https://img.shields.io/badge/stars-58-green?style=flat" /> <img src="https://img.shields.io/badge/forks-21-brightgreen?style=flat" />
-  </p>
-  
-  <p>
-    <strong>Mini-Store</strong> <br/>
-    <em>This project is about building an online E-commerce web application with backend integration including a lot of functionalities.</em><br/>
-    <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript" /> <img src="https://img.shields.io/badge/stars-15-green?style=flat" /> <img src="https://img.shields.io/badge/forks-3-brightgreen?style=flat" />
-  </p>
-  </div>
 
